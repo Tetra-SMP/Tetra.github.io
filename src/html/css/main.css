@@ -1,1 +1,7 @@
-
+body {
+    background-color: darkslategray;
+}
+.butn {
+    padding: 20px;
+    background-color: darkblue;
+}
